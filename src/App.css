@@ -1,6 +1,11 @@
+#root{
+  margin: 1em;
+  background-color:#d7dfe6;
+}
+
+
 .App {
   text-align: center;
-  margin: 1em;
 }
 
 
